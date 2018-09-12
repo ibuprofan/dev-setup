@@ -1,7 +1,7 @@
 Development setup
 ---
 
-### Development machines 
+### Developers' machines 
 
 Setup guide (for new starters) please follow the sequence
 
