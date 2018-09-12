@@ -1,7 +1,9 @@
 Development setup
 ---
 
-Development machines setup guide (for new starters)
+### Development machines 
+
+Setup guide (for new starters) please follow the sequence
 
  * `SSH` keys generation and linking with your `GitHub` account auth - __v. 1.0__ [click here](https://help.github.com/articles/connecting-to-github-with-ssh/)
  * `git` identity setup - __v. 1.0__ [click here](docs/git-id.md)
